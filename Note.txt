@@ -1,0 +1,13 @@
+==== Buổi 1 =====
+- JSX
+- SPA
+- Component
+    + Stateful Component (Class)
+    + Stateless Component (Function)
+
+==== Buổi 2 =====
+    Rendering Elements: {}
+    Rendering Condition
+    Handling Events: onClick
+    State: Nếu state thay đổi thì render chạy lại
+    List keys
