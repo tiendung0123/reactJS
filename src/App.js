@@ -9,7 +9,8 @@ import ExampleCar from "./example-car";
 import ListKeys from "./list-keys";
 import Communicate from "./communicate";
 import LiftingStateUpCart from "./shopping-cart";
-import BaiTapChonKinh from "./baiTapChonKinh";
+// import BaiTapChonKinh from "./baiTapChonKinh";
+import Home from "./user-managment";
 
 function App() {
   return (
@@ -31,33 +32,11 @@ function App() {
       <hr />
       <LiftingStateUpCart />
       <hr />
-      <BaiTapChonKinh />
+      {/* <BaiTapChonKinh /> */}
+      <hr />
+      <Home />
 
 
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
       <br />
       <br />
       <br />
